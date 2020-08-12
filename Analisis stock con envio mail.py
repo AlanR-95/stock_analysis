@@ -3,7 +3,6 @@
 from alpha_vantage.timeseries import TimeSeries
 import time
 import pandas as pd
-import os
 import smtplib
 from email.message import EmailMessage
 
